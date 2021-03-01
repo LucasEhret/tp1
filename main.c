@@ -12,6 +12,7 @@ int main(void)
     SystemClock_Config();
     init_LED1357(LED7);
     timer7_start();
+	//coucou
 
     // Enable GPIOD peripheral clock
 
